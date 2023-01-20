@@ -44,14 +44,14 @@
 
 #### &nbsp;&nbsp;&nbsp; <ins>6.a FIFO (First In First Out)</ins>
 
-![FIFO](./System%20Processes%20Emulation/Screenshots/FIFO_Page.PNG)
+![FIFO](./System%20Processes%20Emulation/Screenshots/FIFO_Page.png)
 
 #### &nbsp;&nbsp;&nbsp; <ins>6.b LRU (Least Recently Used)</ins>
 
-![LRU](./System%20Processes%20Emulation/Screenshots/LRU_Page.PNG)
+![LRU](./System%20Processes%20Emulation/Screenshots/LRU_Page.png)
 #### &nbsp;&nbsp;&nbsp; <ins>6.c Optimal (Looking Ahead)</ins>
 
-![OPT](./System%20Processes%20Emulation/Screenshots/Optimal_Page.PNG)
+![OPT](./System%20Processes%20Emulation/Screenshots/Optimal_Page.png)
 
 ## 7. Disk Scheduling
 
