@@ -60,4 +60,4 @@
 ## 8. Banker's Algorithm for Deadlock Detection
 
 ![Banker_1](./System%20Processes%20Emulation/Screenshots/Banker_1.png)
-![Banker_1](./System%20Processes%20Emulation/Screenshots/Banker_2.png)
+![Banker_2](./System%20Processes%20Emulation/Screenshots/Banker_2.png)
