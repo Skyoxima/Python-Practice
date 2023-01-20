@@ -55,7 +55,7 @@ def sstf_dschd(req_sequence, curr_rest, per_track_seek_cost, total_nooftracks = 
         disk_schedule.append(to_schd)
         curr_rest = to_schd
 
-    final_ans(total_seek_time, disk_schedule, initial_rest, "Shortest Remaining Time First (SSTF)")
+    final_ans(total_seek_time, disk_schedule, initial_rest, "Shortest Serving Time First (SSTF)")
 
 def scan_dschd(req_sequence, curr_rest, per_track_seek_cost, total_nooftracks = 200):
     initial_rest = curr_rest
